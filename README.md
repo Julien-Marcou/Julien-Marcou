@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Check out some of my projects 👨‍🚀</strong>
   <br>
-  You may find some interesting stuff and learn one thing or two 🚀
+  You may find some interesting stuff and learn a thing or two 🚀
 </p>
 
 ----------
