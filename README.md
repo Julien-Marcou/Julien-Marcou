@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Julien-Marcou/Unicode-Emoji-Picker">
-    <img alt="Super Secret Projet" src="https://julien-marcou.fr/img/project/unicode-emoji-picker.png">
+    <img alt="Unicode Emoji Picker" src="https://julien-marcou.fr/img/project/unicode-emoji-picker.png">
   </a>
   <br>
   <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd>
