@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Julien-Marcou/Unicode-Emoji-Picker">
-    <img alt="Unicode Emoji Picker" src="https://julien-marcou.fr/img/project/unicode-emoji-picker.png">
+    <img alt="Unicode Emoji Picker" src="https://raw.githubusercontent.com/Julien-Marcou/Julien-Marcou/master/unicode-emoji-picker.png">
   </a>
   <br>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-222?&logo=html5&logoColor=e34f26">
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/Julien-Marcou/Super-Secret-Project">
-    <img alt="Super Secret Projet" src="https://julien-marcou.fr/img/project/super-secret-project.png">
+    <img alt="Super Secret Projet" src="https://raw.githubusercontent.com/Julien-Marcou/Julien-Marcou/master/super-secret-project.png">
   </a>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/-Java-222?&logo=java&logoColor=ea2d2e">
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/Julien-Marcou/OpenWeatherApp">
-    <img alt="Open Weather App" src="https://julien-marcou.fr/img/project/opeanweatherapp.png">
+    <img alt="Open Weather App" src="https://raw.githubusercontent.com/Julien-Marcou/Julien-Marcou/master/open-weather-app.png">
   </a>
   <br>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-222?&logo=html5&logoColor=e34f26">
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/Julien-Marcou/SmallWorld">
-    <img alt="Small World" src="https://julien-marcou.fr/img/project/smallworld.png">
+    <img alt="Small World" src="https://raw.githubusercontent.com/Julien-Marcou/Julien-Marcou/master/smallworld.png">
   </a>
   <br>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-222?&logo=c-sharp&logoColor=189f20">
@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://github.com/Julien-Marcou/RadialMenu">
-    <img alt="WPF Radial Menu" src="https://julien-marcou.fr/img/project/radialmenu.png">
+    <img alt="WPF Radial Menu" src="https://raw.githubusercontent.com/Julien-Marcou/Julien-Marcou/master/radial-menu.png">
   </a>
   <br>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-222?&logo=c-sharp&logoColor=189f20">
@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/Julien-Marcou/RendezVous.js">
-    <img alt="Rendez Vous JS" src="https://julien-marcou.fr/img/project/rendezvous-js.png">
+    <img alt="Rendez Vous JS" src="https://raw.githubusercontent.com/Julien-Marcou/Julien-Marcou/master/rendezvous-js.png">
   </a>
   <br>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-222?&logo=html5&logoColor=e34f26">
